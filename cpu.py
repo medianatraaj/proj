@@ -57,4 +57,4 @@ with open(filename, 'wb') as csvfile:
         # write metrics to csv
         utils.write_to_csv(resource, csvwriter, instance, item_list_arr)
 
-    print('CSV file %s created.' % filename)
+    print('CSV file %s created.' % filename) l;k,oplk][
